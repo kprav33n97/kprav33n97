@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @kprav33n97
--  I’m interested in Web Development & Web Technologies.
+# Hi there! 👋
 
+I'm a passionate web developer with a love for crafting clean, efficient, and user-friendly web applications. With a strong foundation in modern web technologies and a continuous drive to learn, I strive to create impactful digital experiences. Let's build something amazing together!
 
-<!---
-kprav33n97/kprav33n97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌐 [Visit my website]([https://kprav33n97.github.io/designtocode/]))
+
+📫 [Get in touch](mailto:kpraveenkumar2006@gmail.com)
